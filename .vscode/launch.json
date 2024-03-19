@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-BackendTcApplication<Backend_TC>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.TC.Backend_TC.BackendTcApplication",
+      "projectName": "Backend_TC",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
